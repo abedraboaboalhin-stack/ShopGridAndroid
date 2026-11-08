@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ShopGrid</string>
+    <string name="search_hint">Search Product</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="filter">Filter</string>
+    <string name="no_products_found">No products found</string>
+    <string name="back">Back</string>
+    <string name="grid_view">Grid view</string>
+    <string name="product_image">Product image</string>
+    <string name="add_to_cart_description">Add to cart</string>
+    <string name="price_format">US$%1$.2f</string>
+    <string name="added_to_cart">%1$s added to cart</string>
+    <string name="filter_toast">Filter options can be added here</string>
+    <string name="grid_toast">Showing products in grid view</string>
+</resources>
